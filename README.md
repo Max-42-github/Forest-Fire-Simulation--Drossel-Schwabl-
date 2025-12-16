@@ -7,6 +7,7 @@ Here we consider a 2-D grid based approch to represent the forest and parallely 
 4. A tree without a burning nearest neighbour becomes a burning tree during one time step with probability ($lightProb$) [Like a forest fire initiated by a lightning strike]
 
 Here is an example scenario based on the above rules:
+
 <img width="356" height="358" alt="Simulation_Explain_forestFire" src="https://github.com/user-attachments/assets/422c4c4e-2234-40f8-bf68-3bde361fce98" />
 
 
